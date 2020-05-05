@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "comparaSoftware"
+    }
+  },
+  "defaultProject": "comparaSoftware",
+  "cli": {
+    "analytics": "a6192467-4c7a-425b-b162-db42ce46bcfa"
+  }
 }
